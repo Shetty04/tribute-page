@@ -1,0 +1,83 @@
+html{
+    width:100%;
+}
+.info{
+    background-image: linear-gradient(rgba(83, 82, 86, 0.9), rgba(245,246,252,0.52)),url(https://thumbs.dreamstime.com/b/wisconsin-dairy-farm-barn-field-corn-passing-rain-storm-leaves-clouds-blue-sky-as-passes-summer-32350485.jpg) ;
+
+    box-shadow: 20 20 50 10;
+    height: 90%;
+    width: 100%;
+    border-radius: 20px;
+}
+
+.photo {
+    width: 95vw;
+   
+    display:block;
+    background-color: rgb(170, 170, 146,0.8);
+
+    text-align: center;
+    margin: 0 20px;
+    overflow:visible;
+    font-size: 25px;
+    padding-bottom: 52px;
+    border-radius: 10px;
+}
+figure{
+    padding:0 20px 40px 20px;
+    margin: 0;
+}
+figcaption{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 18px;
+    padding-top: 10px;
+}
+img{
+   
+    box-sizing:content-box;
+    width: 80%;
+    height:auto;
+    display: block;
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+h1,h3{
+    font-weight: 800;
+    font-size: 70px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+h3{
+    font-size:40px;
+}
+marquee{
+    behavior: alternate;
+}
+#tribute-info{
+    text-align: center;
+    box-sizing: border-box;
+    width: 600px;
+    margin: 0 400px;
+    font-family:'Times New Roman', Times, serif;
+    padding-top: 60px;
+
+
+}
+li{
+    text-align: left;
+    padding-bottom:15px;
+    font-size: 18px;
+}
+footer{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 300;
+    padding: 30px 30px 30px 70px;
+    margin-bottom: 50px;
+}
+
+p{
+    font-size: 18px;
+}
